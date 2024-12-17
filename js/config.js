@@ -6,6 +6,6 @@ window._config = {
         
     },
     api: {
-        invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl: 'https://ynlccaz97c.execute-api.ca-central-1.amazonaws.com/Rides2024' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
